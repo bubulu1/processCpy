@@ -36,3 +36,23 @@
 
 [1]:https://www.github.com "GitHub官方网站"
 [2]:https://git-scm.com/downloads "Git下载入口"
+
+
+测试插入网络图片
+
+![253b5c99-451b-4331-8a84-1611afe10555.jpg](https://s2.loli.net/2021/12/27/P6lEFOkDcs42Lxd.jpg)
+
+
+测试插入代码段
+
+```bash
+sudo apt-get install git
+```
+
+```C
+#include <stdio.h>
+```
+```cpp
+cout<<"cpp"<<endl;
+```
+
